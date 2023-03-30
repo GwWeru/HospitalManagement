@@ -31,3 +31,5 @@ def appointment(request):
     return render(request, 'appointment.html', {})
 def testimonial(request):
     return render(request, 'testimonial.html', {})
+def team(request):
+    return render(request, 'team.html', {})
