@@ -27,3 +27,5 @@ def price(request):
     return render(request, 'price.html', {})
 def about(request):
     return render(request, 'about.html', {})
+def appointment(request):
+    return render(request, 'appointment.html', {})
