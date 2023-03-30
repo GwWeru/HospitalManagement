@@ -29,3 +29,5 @@ def about(request):
     return render(request, 'about.html', {})
 def appointment(request):
     return render(request, 'appointment.html', {})
+def testimonial(request):
+    return render(request, 'testimonial.html', {})
