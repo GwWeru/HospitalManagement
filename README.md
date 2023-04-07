@@ -16,7 +16,7 @@ To install the Hospital Management System, follow these steps:
 Clone the repository to your local machine.
 Install the required dependencies by running npm install.
 Start the server by running npm start.
-Navigate to http://localhost:3000 in your web browser to access the system.
+Navigate to http://localhost:8000 in your web browser to access the system.
 Usage
 To use the Hospital Management System, follow these steps:
 
